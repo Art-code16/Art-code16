@@ -47,11 +47,3 @@ Estou sempre aberto a novas conexões, mentoria ou oportunidades de colaborar em
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-felipe-152286356/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.felipe.santos@hotmail.com)
-- Projetos pessoais para ampliar meu portfólio
-
----
-
-## 📬 Como falar comigo?
-
-- 💼 *Em breve adiciono minhas redes profissionais aqui!*
-
