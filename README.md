@@ -35,9 +35,9 @@ Aqui estão as linguagens e ferramentas que eu já utilizo:
 
 Aqui estão minhas estatísticas e as linguagens que mais utilizo nos meus repositórios. (Elas atualizam sozinhas!)
 
-[![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=Art-code16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-code16&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
