@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Arthur Felipe
+#  Olá! Eu sou Arthur Felipe
 
 > Um desenvolvedor de 16 anos em jornada para se tornar FullStack.
 
@@ -8,16 +8,16 @@ Estou sempre buscando aprender e aplicar meus conhecimentos em projetos prático
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
-* 🌱 Atualmente focado em me tornar um **Desenvolvedor FullStack**.
-* 👨‍💻 Já tenho uma base sólida em lógica e desenvolvimento com: **C#, JavaScript, Python, PHP, HTML e CSS**.
-* 🎨 Para o front-end, utilizo o **Bootstrap** para criar interfaces ágeis e responsivas.
-* 🧠 Estou ativamente buscando meu próximo desafio e aprendendo novos frameworks!
+*  Atualmente focado em me tornar um **Desenvolvedor FullStack**.
+*  Já tenho uma base sólida em lógica e desenvolvimento com: **C#, JavaScript, Python, PHP, HTML e CSS**.
+*  Para o front-end, utilizo o **Bootstrap** para criar interfaces ágeis e responsivas.
+*  Estou ativamente buscando meu próximo desafio e aprendendo novos frameworks!
 
 ---
 
-### 🛠️ Minha Stack de Tecnologias
+### Minha Stack de Tecnologias
 
 Aqui estão as linguagens e ferramentas que eu já utilizo:
 
@@ -31,7 +31,8 @@ Aqui estão as linguagens e ferramentas que eu já utilizo:
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+
+###  Por onde me chamar
 
 Aqui estão minhas estatísticas e as linguagens que mais utilizo nos meus repositórios. (Elas atualizam sozinhas!)
 
@@ -40,10 +41,6 @@ Aqui estão minhas estatísticas e as linguagens que mais utilizo nos meus repos
 [![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-code16&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 📫 Como me encontrar
-
-Estou sempre aberto a novas conexões, mentoria ou oportunidades de colaborar em projetos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-felipe-152286356/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.felipe.santos@hotmail.com)
