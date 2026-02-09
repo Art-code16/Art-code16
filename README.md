@@ -1,6 +1,6 @@
 #  Olá! Eu sou Arthur Felipe
 
-> Um desenvolvedor de 16 anos em jornada para se tornar FullStack.
+> Um desenvolvedor de 17 anos em jornada para se tornar FullStack.
 
 Sou um entusiasta da tecnologia e programador focado no desenvolvimento Web. Meu objetivo é dominar tanto o front-end quanto o back-end para construir aplicações completas e impactantes.
 
@@ -21,7 +21,7 @@ Estou sempre buscando aprender e aplicar meus conhecimentos em projetos prático
 
 Aqui estão as linguagens e ferramentas que eu já utilizo:
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
